@@ -8,14 +8,73 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="estiloBotonGuardar">
-        <item name="android:background">@color/colorVerde</item>
+    <style name="estiloBoton">
+        <item name="android:background">@color/colornaranja</item>
         <item name="android:padding">@dimen/paddingGeneral</item>
         <item name="android:textColor">@color/colorPrimaryDark</item>
         <item name="android:textSize">@dimen/textsizeboton</item>
-        <item name="android:gravity">right</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="estiloBotonsiguiente">
+        <item name="android:background">@color/colorverde</item>
+        <item name="android:padding">@dimen/paddingGeneral</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/sizebotonmenu</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:text"> @string/botonsiguiente</item>
+    </style>
 
 
+    <style name="estiloBotonAnterior">
+        <item name="android:background">@color/colorverde</item>
+        <item name="android:padding">@dimen/paddingGeneral</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/sizebotonmenu</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:text"> @string/botonatras</item>
+    </style>
+
+    <style name="estiloBotonMenu">
+        <item name="android:background">@color/colorverde</item>
+        <item name="android:padding">@dimen/paddingGeneral</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/sizebotonmenu</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:text"> @string/botonmenu</item>
+    </style>
+
+
+    <style name="estilofondo">
+        <item name="android:background">@drawable/Torre</item>
+        <item name="android:layout_height">@dimen/alturacabecera</item>
+
+    </style>
+
+    <style name="estilofondoendor">
+        <item name="android:background">@drawable/endor</item>
+        <item name="android:layout_height">@dimen/alturaendor</item>
+
+    </style>
+
+    <style name="estilotexto">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
+    <style name="estilobotongrande">
+        <item name="android:background">@color/colorrojo</item>
+        <item name="android:padding">@dimen/paddingGeneral</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/textsizebotongrande</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">10dp</item>
 
     </style>
 

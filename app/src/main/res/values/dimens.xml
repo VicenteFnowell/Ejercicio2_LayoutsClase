@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="paddingGeneral">16dp</dimen>
-    <dimen name="textsizeboton">20dp</dimen>
-
+    <dimen name="paddingGeneral">10dp</dimen>
+    <dimen name="textsizeboton">15dp</dimen>
+    <dimen name="sizebotonmenu">20dp</dimen>
+    <dimen name="textsizebotongrande">30dp</dimen>
+    <dimen name="alturacabecera">150dp</dimen>
+    <dimen name="alturaendor">150dp</dimen>
 
 </resources>
 

@@ -2,5 +2,9 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorVerde">#80ff40</color>
+    <color name="colornaranja">#eac272</color>
+    <color name="colorrojo">#c45855</color>
+    <color name="colorverde">#5fa958</color>
+
+
 </resources>

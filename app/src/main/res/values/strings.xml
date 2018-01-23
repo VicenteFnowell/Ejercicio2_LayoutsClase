@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Ejercicio2_LayoutsClase</string>
     <string name="botonAceptar"> Aceptar  </string>
+    <string name="botonsiguiente"> Siguiente </string>
+    <string name="botonatras"> Atrás </string>
+    <string name="botonmenu"> Menu </string>
 </resources>
